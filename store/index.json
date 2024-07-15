@@ -165,7 +165,7 @@
 		"type": "game",
 		"data": {
 			"type": "IFrame",
-			"url": "https://classic.minecraft.net",
+			"url": "https://classic.minecraft.net/?join=jCAN3AruE30-sn8u",
 			"gallery": [
 				"https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
 				"https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
@@ -887,7 +887,7 @@
 		}
 	},
 	{
-  		"name": "windows 11 Inception",
+  		"name": "Windows 11",
   		"icon": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/1/29/ad18df0f-bee3-4b8a-9806-ff32ba2e0754.jpg.webp?ect=4g",
   		"type": "Virtual Machine",
   		"data": {
