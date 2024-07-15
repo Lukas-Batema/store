@@ -1,5 +1,5 @@
-[{
-  "name": "Marble Blast Gold",
+[
+  "name": "Marble Blast GKold",
   "icon": "https://i.ibb.co/F01xspH/MBG.png",
   "type": "game",
   "data": {
@@ -901,3 +901,22 @@
     	"invert": true
   }
 }]
+
+{
+  "name": "Power Point", // unique name (check if it has been used already in the file)
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-U9KA5Q3nJnsiiYW8bMlnFpgn2lPsgqbxA&s", // logo image, preferrably 1:1 and less than 128px of width
+  "type": "Utilities", // game or app
+  "data": {
+    "type": "IFrame", // type currently supports IFrame only
+    "url": "https://www.microsoft365.com/launch/powerpoint?auth=1", // url of the app and make sure they accept Iframe
+    "gallery": [
+      // three or more images for gallery view in store app
+      "https://www.minecraft.net/content/dam/games/minecraft/key-art/CavesandCliffsPt1-dotNET-HomepagePromo-600x360.png",
+      "https://variety.com/wp-content/uploads/2019/02/minecraft-best-year-yet.png?w=600",
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "create presentations with power point ...", // description for store app
+    "feat": "1.1 Combat changes.\n1.2 Fletching table functionality.", // features for store app
+    "invert": true // when true it forces dark theme for game/app window, default is false.
+  }
+}
