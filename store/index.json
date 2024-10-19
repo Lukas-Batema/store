@@ -1,4 +1,18 @@
 [{
+  "name": "Winbows11",
+  "icon": "https://winbows11.vercel.app/favicon.ico",
+  "type": "app",
+  "data": {
+    "type": "IFrame",
+    "url": "https://winbows11.vercel.app/?embed",
+    "gallery": [
+      "https://raw.githubusercontent.com/Siyu1017/winbows11/refs/heads/main/presentation.png"
+    ],
+    "desc": "Just like Windows11, Winbows11 lets you experience Windows11 UI and animations on your web browser!",
+    "feat": "Windows 11 virtual machine",
+    "invert": false
+  }
+},{
   "name": "Marble Blast Gold",
   "icon": "https://i.ibb.co/F01xspH/MBG.png",
   "type": "game",
